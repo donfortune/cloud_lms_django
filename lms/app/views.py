@@ -7,3 +7,5 @@ def home(request):
 
 def courses(request):
     return render(request, 'courses.html')
+
+def 
